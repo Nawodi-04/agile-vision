@@ -8,7 +8,7 @@ The **Agile Vision** system is a full-stack web application developed to help sm
 - 🗓 **Sprint Management** – Create, update, and track sprints with defined goals and timeframes.
 - 📋 **Kanban Task Board** – Drag-and-drop interface for managing tasks between stages (To-Do, In Progress, Done).
 - 📊 **Burndown and Velocity Charts** – Visualize sprint performance and team productivity.
-- 💬 ** Chat** – Built-in chat system powered by Socket.io for live collaboration.
+- 💬 **Chat** – Built-in chat system powered by Socket.io for live collaboration.
 - 🔐 **User Roles** – Role-based access for Project Manager, and Team Members.
 
 
