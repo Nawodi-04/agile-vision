@@ -1,6 +1,6 @@
 # 💼 Agile Vision
 
-The **Agile Vision** system is a full-stack web application developed to help small to medium-sized Agile teams manage their sprints, track tasks, and improve real-time collaboration. It supports core Agile practices like sprint planning, Kanban-style task management, and sprint analytics through intuitive UI and backend automation.
+The **Agile Vision** system is a full-stack web application developed to help small to medium-sized Agile teams manage their sprints, track tasks, and improve chat collaboration. It supports core Agile practices like sprint planning, Kanban-style task management, and sprint analytics through intuitive UI and backend automation.
 
 
 ## 🚀 Features
@@ -8,8 +8,8 @@ The **Agile Vision** system is a full-stack web application developed to help sm
 - 🗓 **Sprint Management** – Create, update, and track sprints with defined goals and timeframes.
 - 📋 **Kanban Task Board** – Drag-and-drop interface for managing tasks between stages (To-Do, In Progress, Done).
 - 📊 **Burndown and Velocity Charts** – Visualize sprint performance and team productivity.
-- 💬 **Chat** – Built-in chat system powered by Socket.io for live collaboration.
-- 🔐 **User Roles** – Role-based access for Project Manager, and Team Members.
+- 💬 **Chat** – Built-in chat system for collaboration.
+- 🔐 **User Roles** – Role-based access for Project Manager and Developer.
 
 
 ## 🛠️ Technology Stack
